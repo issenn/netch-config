@@ -1,0 +1,3 @@
+# DMMGamePlayer, 0, 0
+\\DMMGamePlayer\\
+#include Custom\UmaMusume.txt
